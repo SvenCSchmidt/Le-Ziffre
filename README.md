@@ -1,3 +1,11 @@
+# Le Ziffre
+
+This keyboard is a fork from the Le Chiffre but with more (thumb-)keys.
+
+More information coming soon.
+
+Original Readme:
+
 # Le Chiffre (ironically, "the number" in French)
 The purpose of the board is to provide a platform for MX and Choc ergo (Alps support too!) in one package for when ones wrists need a break. The board supports an RGB LED strip with DI on port F0. The board is also fitted with support for run-of-the-mill .91" OLED and EC11 rotary encoder.
 
